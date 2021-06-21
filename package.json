@@ -1,0 +1,28 @@
+{
+  "name": "auth-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwangonline/auth-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwangonline/auth-practice/issues"
+  },
+  "homepage": "https://github.com/pwangonline/auth-practice#readme",
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "session-file-store": "^1.5.0"
+  }
+}
